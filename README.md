@@ -1,8 +1,8 @@
 # Project Overview:
 
-In addition to my participation in the AURORA Summer School in 2023, I contributed to a comprehensive Households Socio-economic and Biophysical Survey aimed at understanding the sustainability of farming systems in the MENA region. This survey was part of the AURORA Autumn School, which focused on sustainable agriculture and social-ecological systems in Tunisia. The project aimed to address key challenges faced by farmers, such as water stress, resource management, and the socio-economic viability of agricultural practices.
+I had the opportunity to participate in the AURORA Summer School held in November 2023, at the High School of Agriculture of Mograne in Tunisia, where I worked on a comprehensive Households Socio-economic and Biophysical Survey. This initiative aimed to explore the sustainability of farming systems in the MENA region. The project, a key part of the AURORA Autumn School, focused on addressing the pressing challenges faced by farmers, including water stress, resource management, and the socio-economic viability of agricultural practices in Tunisia.
 
-The AURORA Summer School brought together graduate students and early-career researchers from Tunisia, Morocco, Lebanon, and Germany to tackle complex issues in agro-food systems and sustainability. The event involved lectures, case studies, and problem-based learning activities that focused on the agricultural, environmental, and institutional challenges of the MENA region. It provided a platform for interdisciplinary exchange among researchers and helped build expertise in analyzing social-ecological systems, with a focus on food security, water use, and resource management.
+The AURORA Summer School brought together graduate students and early-career researchers from Tunisia, Morocco, Lebanon, Autralia and Germany to engage with complex issues in agro-food systems and sustainability. Through a combination of lectures, case studies, and problem-based learning activities, the program delved into the agricultural, environmental, and institutional challenges facing the MENA region. It offered an interdisciplinary platform for researchers to exchange ideas and build expertise in analyzing social-ecological systems, focusing on food security, water use, and resource management.
 
 # Role and Responsibilities in Data Collection:
 
@@ -15,14 +15,14 @@ As part of the Households Socio-economic and Biophysical Survey, I was involved 
    
 This provided valuable insights into the challenges farmers face, such as water management, soil health, and the economic viability of their agricultural activities.
 
-- Survey Design and Implementation: I played a significant role in designing the survey and developing questions that would help assess the socio-economic and biophysical conditions of the farmers. The survey covered topics like land use, irrigation practices, biodiversity, and economic resources.
-- Field Data Collection: I participated in direct interviews with farmers, collecting data on aspects such as:
-/Socio-demographic factors (age, education, family structure),
-/Economic assets (land area, agricultural tools, animal breeding practices),
-/Environmental assets (irrigation and water use, salinity, soil health),
-/Farming practices (cropping methods, soil management, use of pesticides), 
-/Governance (relationships with local stakeholders, involvement in water management decisions).
-- Data Analysis: After collecting the survey data, I contributed to the data analysis process, which involved organizing and interpreting large datasets to identify key trends. I used tools and methodologies to analyze relationships between socio-economic factors and farming sustainability. For example, I analyzed how water stress impacts the productivity of farmers and examined the effectiveness of different governance structures in managing agricultural resources.
+1. Survey Design and Implementation: I played a significant role in designing the survey and developing questions that would help assess the socio-economic and biophysical conditions of the farmers. The survey covered topics like land use, irrigation practices, biodiversity, and economic resources.
+2. Field Data Collection: I participated in direct interviews with farmers, collecting data on aspects such as:
+- Socio-demographic factors (age, education, family structure),
+- Economic assets (land area, agricultural tools, animal breeding practices),
+- Environmental assets (irrigation and water use, salinity, soil health),
+- Farming practices (cropping methods, soil management, use of pesticides), 
+- Governance (relationships with local stakeholders, involvement in water management decisions).
+3. Data Analysis: After collecting the survey data, I contributed to the data analysis process, which involved organizing and interpreting large datasets to identify key trends. I used tools and methodologies to analyze relationships between socio-economic factors and farming sustainability. For example, I analyzed how water stress impacts the productivity of farmers and examined the effectiveness of different governance structures in managing agricultural resources.
   
 # Key Survey Areas:
 
